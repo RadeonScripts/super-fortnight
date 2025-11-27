@@ -1,0 +1,10 @@
+{
+  "name": "discord-relay",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1",
+    "body-parser": "^1.20.2"
+  }
+}
